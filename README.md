@@ -1,2 +1,0 @@
-# NEFU
-simplify work
